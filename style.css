@@ -1,0 +1,15 @@
+* {
+  outline: none;
+}
+.error {
+  border: 2px solid red;
+}
+.success {
+  border: 2px solid greenyellow;
+}
+
+form input {
+  padding: 20px;
+  font-size: 1.3em;
+  display: block;
+}
